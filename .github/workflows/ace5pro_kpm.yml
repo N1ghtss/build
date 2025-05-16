@@ -1,6 +1,6 @@
 name: ace5pro_kpm
 on:
-  workflow_call:
+  workflow_dispatch:
     inputs:
       CPU:
         type: string
